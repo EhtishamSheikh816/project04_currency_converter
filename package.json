@@ -1,9 +1,10 @@
 {
   "name": "ehtisham_currency_converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create a curency convertor",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "publishConfig": {
     "access": "public"
   },
